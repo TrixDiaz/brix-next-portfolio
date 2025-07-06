@@ -52,7 +52,7 @@ interface NavbarProps {
 export const HeaderSection = ({
     logo = {
         url: "/",
-        src: "/public/logo.jfif",
+        src: "/logo.png",
         alt: "logo",
         title: "LIEN",
     },
@@ -97,7 +97,7 @@ export const HeaderSection = ({
         },
         { title: "Feature", url: "#feature" },
     ],
-     contact = {
+    contact = {
         message: { title: "Message me", url: "https://www.facebook.com/carlien.brix" },
     },
 }: NavbarProps) => {
