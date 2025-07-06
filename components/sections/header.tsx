@@ -52,7 +52,7 @@ interface NavbarProps {
 export const HeaderSection = ({
     logo = {
         url: "/",
-        src: "/logo.jfif",
+        src: "/public/logo.jfif",
         alt: "logo",
         title: "LIEN",
     },
