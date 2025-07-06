@@ -22,7 +22,7 @@ interface HeroProps {
 export const HeroSection = ({
     badge = "Network Engineer",
     heading = "Hi There! I'm Josh Carlien Brix",
-    description = "Finely crafted components built with React, Tailwind and Shadcn UI. Developers can copy and paste these blocks directly into their project.",
+    description = "*Empowering Networks, Securing Systems, and Optimizing Performance* I specialize in building resilient network infrastructures, managing secure firewalls, and delivering scalable server solutions. From Fortinet to MikroTik, IP cameras to virtualization, I help businesses streamline operations and stay connected with confidence.",
     buttons = {
         primary: {
             text: "Discover my Projects",
